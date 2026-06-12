@@ -1,4 +1,4 @@
-# Serverless Text Analyzer App (Azure Functions + Cosmos DB)
+# Assignment 1: Serverless Computing - Critical Analysis
 
 A serverless Python application built with **Azure Functions** and **Azure Cosmos DB**.  
 It analyzes text (word count, characters, sentences, reading time) and stores results in a NoSQL database for historical tracking and retrieval.
