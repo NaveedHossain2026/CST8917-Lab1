@@ -1,4 +1,4 @@
-# Database Choice: Text Analyzer Persistence Layer
+# Azure Database Service Choice
 
 ## My Choice
 **Azure Cosmos DB (NoSQL API - Serverless Tier)**
