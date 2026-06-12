@@ -31,9 +31,9 @@ Create a `local.settings.json` file in the project root:
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "python",
-    "CosmosDBConnectionString": "<your-cosmos-db-connection-string>"
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "DATABASE_CONNECTION_STRING": "your-connection-string-here"
   }
 }
 ```
