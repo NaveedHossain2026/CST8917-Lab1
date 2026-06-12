@@ -5,12 +5,12 @@ It analyzes text (word count, characters, sentences, reading time) and stores re
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 [YouTube Demo](https://www.youtube.com/watch?v=JTsHnBxpreg)
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 Make sure you have the following installed:
 
@@ -21,7 +21,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🔐 Configuration
+## Configuration
 
 ### Local Setup (`local.settings.json`)
 
@@ -47,7 +47,7 @@ In Azure Function App settings, add:
 
 ---
 
-## ▶️ Running Locally
+## Running Locally
 
 ### 1. Create virtual environment
 
@@ -83,7 +83,7 @@ func start
 
 ---
 
-## 🧪 API Testing
+## API Testing
 
 ### Analyze Text (POST)
 
@@ -99,7 +99,7 @@ curl "http://localhost:7071/api/getanalysishistory?limit=5"
 ---
 ## AI Tools Disclosure
 
-Gemini (Google) was used for assistance with function code modifications, documentation, troubleshooting, and preparation of the video demonstration. All implementation, configuration, and testing were performed and validated by me.
+Gemini (Google) was used to assist with function code modifications, documentation, troubleshooting, and the preparation of the video demonstration. All implementation, configuration, and testing were performed and validated by me.
 
 ---
 
