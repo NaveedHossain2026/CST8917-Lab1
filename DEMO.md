@@ -4,7 +4,7 @@
 ---
 
 ## 🎥 Demo Video
-[YouTube Demo](PASTE_YOUR_UNLISTED_YOUTUBE_URL_HERE)
+[YouTube Demo](https://www.youtube.com/watch?v=JTsHnBxpreg)
 
 ---
 
