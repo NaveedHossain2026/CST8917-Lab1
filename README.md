@@ -96,6 +96,10 @@ curl -X POST http://localhost:7071/api/textanalyzer \
 ### Get History (GET)
 
 curl "http://localhost:7071/api/getanalysishistory?limit=5"
+---
+## AI Tools Disclosure
+
+Gemini (Google) was used for assistance with function code modifications, documentation, troubleshooting, and preparation of the video demonstration. All implementation, configuration, and testing were performed and validated by me.
 
 ---
 
