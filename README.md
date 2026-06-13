@@ -3,6 +3,7 @@
 **Student Name**: Naveed Hossain             
 
 **Student ID**: 0410818822 
+
 ---
 A serverless Python application built with **Azure Functions** and **Azure Cosmos DB**.  
 It analyzes text (word count, characters, sentences, reading time) and stores results in a NoSQL database for historical tracking and retrieval.
