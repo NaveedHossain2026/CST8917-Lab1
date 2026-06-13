@@ -1,7 +1,6 @@
 # CST8917 Lab 1
 
-**Student Name**: Naveed Hossain             
-**Student ID**: 0410818822 
+**Student Name**: Naveed Hossain             **Student ID**: 0410818822 
 **Course**: CST8917 - Serverless Applications
 **Semester**: Summer 2026
 
